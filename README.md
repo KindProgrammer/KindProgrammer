@@ -7,7 +7,7 @@ Frontend developer
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [dariyignatieva@mail.ru](mailto:dariyignatieva@mail.ru)
 
-About me: I like to code different things for fun.
+About me: I like coding different things for fun.
 
 Skills:  REACT / JS / Jest  / HTML / CSS
 
