@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋, my name is Daria
+#### I am Frontend Developer
+
+About me: I like to code different things for fun.
+
+Skills:  REACT / JS / Jest  / HTML / CSS
+
+
 
 <!--
 **KindProgrammer/KindProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
