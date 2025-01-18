@@ -1,5 +1,11 @@
-### Hi there 👋, my name is Daria
-#### I am Frontend Developer
+Hi 👋 My name is Daria Ignatieva
+================================
+
+Frontend developer
+------------------
+
+*   🌍  I'm based in Moscow
+*   ✉️  You can contact me at [dariyignatieva@mail.ru](mailto:dariyignatieva@mail.ru)
 
 About me: I like to code different things for fun.
 
