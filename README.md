@@ -9,7 +9,7 @@ Frontend developer
 
 About me: I like coding different things for fun.
 
-Skills:  REACT / JS / Jest  / HTML / CSS
+Skills:  REACT / JS / Jest  / HTML / CSS / Redux / Vite
 
 
 
